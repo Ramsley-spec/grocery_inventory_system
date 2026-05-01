@@ -2,7 +2,7 @@
 
 A lightweight, browser-based inventory management system designed for grocery stores. Built as a single HTML file — no installation, no backend, no dependencies. Just open and run.
 
-> **Live Demo:** [your-username.github.io/grocery-inventory-system](https://your-username.github.io/grocery-inventory-system)
+> **Live Demo:** [your-username.github.io/grocery-inventory-system](https://Ramsley-spec.github.io/grocery-inventory-system)
 
 ---
 
@@ -46,21 +46,6 @@ Three tabbed report views:
 - Role-based user table: Admin, Store Manager, Employee, Supplier
 - User status tracking: Active / Pending
 - Add new users via modal form
-
----
-
-## 🚀 Getting Started
-
-### Option 1 — Open locally
-1. Download `index.html`
-2. Double-click to open it in any modern browser
-3. No installation required
-
-### Option 2 — Host on GitHub Pages
-1. Create a new GitHub repository (public)
-2. Upload `index.html` to the root of the repository
-3. Go to **Settings → Pages → Source → Deploy from branch → main**
-4. Your system will be live at `https://your-username.github.io/your-repo-name`
 
 ---
 
